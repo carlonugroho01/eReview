@@ -1,6 +1,3 @@
-# eReview
-
-=== WIP ===
 
 eReview is a web-based application to help journal editors find reviewers to review their journals.
 
